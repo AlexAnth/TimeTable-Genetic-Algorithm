@@ -1,0 +1,103 @@
+[
+		{	"id": 1,
+			"fullName": "John Doe",
+			"lesson": {
+				"id": 1,
+				"title": "Computer Programming",
+				"classTeached": {
+					"id": 1,
+					"title": "A"	
+				},
+				"hours": 10	
+			},
+			"maxHoursWeek": 10,
+			"maxHoursDay": 4
+			
+		},
+		{	"id": 2,
+			"fullName": "Mary Kalimeri",
+			"lesson": {
+				"id": 6,
+				"title": "Chemistry",
+				"classTeached": {
+					"id": 1,
+					"title": "A"	
+				},
+				"hours": 10	
+			},
+			"maxHoursWeek": 20,
+			"maxHoursDay": 4
+		},
+		{	"id": 3,
+			"fullName": "Makis Manolakis",
+			"lesson": {
+				"id": 7,
+				"title": "Literature",
+				"classTeached": {
+					"id": 2,
+					"title": "B"	
+				},
+				"hours": 10
+			},
+			"maxHoursWeek": 20,
+			"maxHoursDay": 5
+		},
+		{	"id": 4,
+			"fullName": "Kostas Palaiokostas",
+			"lesson": {
+				"id": 5,
+				"title": "Algorithms",
+				"classTeached": {
+					"id": 1,
+					"title": "A"	
+				},
+				"hours": 10
+			},
+			"maxHoursWeek": 20,
+			"maxHoursDay": 4
+		},
+		{	"id": 5,
+			"fullName": "Fenia Karanea",
+			"lesson": {
+				"id": 4,
+				"title": "Mathematics",
+				"classTeached": {
+					"id": 3,
+					"title": "C"	
+				},
+				"hours": 20
+			},
+			"maxHoursWeek": 10,
+			"maxHoursDay": 4
+		},
+		{	"id": 6,
+			"fullName": "Jake Ham",
+			"lesson": {
+				"id": 3,
+				"title": "Space Exploration",
+				"classTeached": {
+					"id": 3,
+					"title": "C"	
+				},
+				"hours": 15
+			},
+			"maxHoursWeek": 10,
+			"maxHoursDay": 4
+		},
+		{	"id": 7,
+			"fullName": "William Blake",
+			"lesson": {
+				"id": 2,
+				"title": "Physics",
+				"classTeached": {
+					"id": 2,
+					"title": "B"	
+				},
+				"hours": 12
+			},
+			"maxHoursWeek": 10,
+			"maxHoursDay": 4
+		}
+]
+
+	
