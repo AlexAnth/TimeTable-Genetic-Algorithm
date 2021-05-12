@@ -4,8 +4,6 @@ This project was conducted on the winter semester of 2019 for the course of AI a
 
 ## Overview
 
-<p align="center"><img src="documents/school.jpg" width=550 align=center/></p>
-
 This project is focused on building a time schedule for a school program with the help of GA and AI. Taking into account the conditions binding the form of a school program with three different classes ( A-B-C ) such as the availability of the teachers, the limitations in consecutive hours etc. I built a java application which outputs in json format the timetable of a school semester.
 
 ### The application features:
