@@ -1,4 +1,4 @@
-# TimeTable Sceduler - Java Application  
+# TimeTable Sceduler 🍎 - Java Application  
 
 This project was conducted on the winter semester of 2019 for the course of AI at AUEB.
 
